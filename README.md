@@ -1,2 +1,1 @@
-# DinoChrome
-1
+Start main.py
